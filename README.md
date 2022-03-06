@@ -7,7 +7,7 @@ Our proposed system aims at eliminating middlemen, and establish **direct (P2P) 
 
 - Ethereum (Blockchain Network)
 - Solidity (Smart Contracts)
-- Ganache and MetaMask (Interface between website and Blockchain Network)
+- Truffle, Ganache and MetaMask (Interface between website and Blockchain Network)
 - React.js (Frontend)
 - Firebase (Cloud-based login system)
 
